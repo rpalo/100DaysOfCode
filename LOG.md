@@ -2,7 +2,7 @@
 
 | Day | Date | Created | Learned |
 | --- | --- | --- | --- |
-| 001 | Mar 22, 2018 | [TITLE](001) | LEARNING |
+| 001 | Mar 22, 2018 | [Python Tip Checker](001) | Pandas searching dataframes, reading a CSV from a url. |
 | 002 | Mar 23, 2018 | [TITLE](002) | LEARNING |
 | 003 | Mar 24, 2018 | [TITLE](003) | LEARNING |
 | 004 | Mar 25, 2018 | [TITLE](004) | LEARNING |
