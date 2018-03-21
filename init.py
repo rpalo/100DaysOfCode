@@ -2,7 +2,7 @@ import datetime
 import os
 
 LOG = 'LOG.md'
-DAY_ZERO = datetime.datetime(2017, 3, 29)  # = PyBites 100 days :)
+DAY_ZERO = datetime.datetime(2018, 3, 21)  # = PyBites 100 days :)
 NUM_DAYS = 100
 NUM_WIDTH = 3
 TABLE_HEADER = '''## Progress Log
@@ -12,7 +12,7 @@ TABLE_HEADER = '''## Progress Log
 '''
 DAY = '| {0} | {1} | [TITLE]({0}) | LEARNING |\n'
 INIT_FILE = '__init__.py'
-AUTHOR = "__author__ = 'PyBites'\n"
+AUTHOR = "__author__ = 'Ryan Palo'\n"
 
 
 def gen_days():
