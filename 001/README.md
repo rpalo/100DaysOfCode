@@ -1,12 +1,5 @@
-# Day 001 - @python_tip Checker
+# Day 001 - Word Score Checker
 
-Write a script that checks to see if a tip has already been submitted to @python_tip.
+Write a script that runs through dictionary.txt and finds the word that scores the highest in scrabble.
 
-*Hint: They store their tips in a CSV file at [https://t.co/oARrOmrin7](https://t.co/oARrOmrin7).*
-
-Possible example usage:
-
-    $ python pytip.py words to search for
-    No tips submitted for those search terms.
-
-Reference solution [here](https://github.com/pybites/100DaysOfCode/blob/master/001/pytip.py).
+*See [data.py](./data.py) for letter scores.*
